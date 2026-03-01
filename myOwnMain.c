@@ -1,4 +1,4 @@
 int main() {
-print("hi");
+printf("Welcome");
 return 0;
 }
